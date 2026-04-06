@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/3ebb92f7-68ff-439a-820f-1260b6608af7
+View your app in AI Studio: https://agent-69d13f94edfbc3b192--ephemeral-liger-d244af.netlify.app
 
 ## Run Locally
 
