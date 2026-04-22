@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://agent-69d13f94edfbc3b192--ephemeral-liger-d244af.netlify.app
+View your app in AI Studio: https://aiimageanalyzer.vercel.app/
 
 ## Run Locally
 
